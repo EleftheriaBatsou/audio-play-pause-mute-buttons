@@ -1,0 +1,37 @@
+
+body{ 
+   background-image: linear-gradient(to top, #c71d6f 0%, #d09693 100%);
+  background-repeat: no-repeat;
+  
+  
+   background-size: contain;
+   background-attachment: fixed;
+  
+   color: white;
+}
+
+
+button{ border:none; cursor:pointer; outline:none; }
+
+button#playpausebtn{	background:url(https://image.flaticon.com/icons/svg/189/189889.svg) no-repeat;
+	width:10%;
+	height:100px;
+  
+  display: block;
+    margin: auto;
+  
+}
+
+button#mutebtn{	background:url(https://image.flaticon.com/icons/svg/204/204287.svg) no-repeat;
+	width:10%;
+	height:100px;
+  
+  display: block;
+    margin: auto;
+}
+
+#footer {color: #000}
+#footer a:link{ color: #000; }
+#footer a:hover{ background: #fff; }
+#footer a:visited{ color: #000; }
+#footer a:active{ background: #EEFFA8; }
